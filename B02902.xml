@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Philadelphian Society of England, Easter-day, 1699. Addressed to the Catholick Church representative and diffusive.</title>
+            <author>Philadelphian Society (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02902</idno>
+            <idno type="STC">Wing D737A</idno>
+            <idno type="STC">ESTC R174633</idno>
+            <idno type="EEBO-CITATION">52212013</idno>
+            <idno type="OCLC">ocm 52212013</idno>
+            <idno type="VID">175642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175642)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2744:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Philadelphian Society of England, Easter-day, 1699. Addressed to the Catholick Church representative and diffusive.</title>
+                  <author>Philadelphian Society (London, England)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>In double columns.</note>
+                  <note>Advertisement: bottom of p. [8].</note>
+                  <note>Imperfect: cropped with slight loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mysticism --  England --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175642:1" rendition="simple:additions"/>
+            <head>THE DECLARATION OF THE <hi>Philadelphian Society</hi> OF ENGLAND, <hi>EASTER-DAY,</hi> 1699. <hi>Addreſſed to the</hi> Catholick Church <hi>Repreſentative and Diffuſive.</hi>
+            </head>
+            <p>§. 1. <hi>TO the Biſhops and Presbyters of the</hi> Catholick Church, <hi>and to all Or<g ref="char:EOLhyphen"/>ders, Ranks and Degrees of the ſame, elected by God the Father, and called out of the World, being ſanctified by his Spirit: And in particular to the Churches, whether Eſtabliſhed or Diſperſed within theſe three Kingdoms, of</hi> England, Scotland, <hi>and</hi> Ireland; <hi>and yet more peculiarly to that of this Kingdom, and to all Religious Societies therein, however they may be nominated and diſtinguiſhed, either ſepara<g ref="char:EOLhyphen"/>ted from it, or holding Communion with it: But in a moſt ſpecial manner, to as many as either here or abroad, do truly believe, and wait for the coming of our Lord</hi> Jeſus Chriſt, <hi>in the Majeſty of his Father: The</hi> Philadel<g ref="char:EOLhyphen"/>phian Society, <hi>founded for the Propagation of Apoſtolical Faith and Love, wiſheth the increaſe of Grace, Peace and Truth.</hi>
+            </p>
+            <p>
+               <hi>Fathers, Brethren</hi> and <hi>Friends,</hi>
+            </p>
+            <p>§. 2. GOD having appeared in theſe latter Days, to excite and raiſe up many Perſons in all Nations, both Secretly and Publickly, after diverſe and ſundry manners, to prepare the Way of his dear <hi>Son;</hi> unto whom he hath given by an Oath, the utmoſt ends of the Earth for his Inheritance: Be it known unto you, that he hath Excited and Commanded us by his Spirit, which is the Teſtimony of his Son, to bear an open and publick Wit<g ref="char:EOLhyphen"/>neſs at this time for his <hi>Kingdom.</hi> Which <hi>Kingdom</hi> is not of this World, nor after the manner of the Nations; But is of Hea<g ref="char:EOLhyphen"/>ven, and from Heaven, and after the man<g ref="char:EOLhyphen"/>ner of the Saints in Bliſs; who are ever doing their Father's Will, and follow<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:175642:2"/>
+the LAMB, who is their Light, <hi>whi<g ref="char:EOLhyphen"/>therſoever he goeth.</hi> And that this <hi>Kingdom</hi> may <hi>come quickly,</hi> according to the Oath and Covenant of the Everlaſting Father, and that the Will of our God and Lord be obeyed with the ſame Univerſality, Perpetuity and Alacrity, even here upon the Earth, as it is in Heaven, to the San<g ref="char:EOLhyphen"/>ctification of his Name, <hi>The LORD our Righteouſneſs;</hi> and even to a viſible Inſcrip<g ref="char:EOLhyphen"/>tion of it on all his Diſciples: So that it may indeed be <hi>Exalted above every Name under Heaven,</hi> and <hi>every Knee made to bow down to it;</hi> we think it our bounden Duty, by all Ways and Mediums, by all Methods, Expedients and Enterpriſes, according to the Pattern of the Holy Ancients; with continued Labours, Watchings and Supplications, to promote, advance and carry on the Intereſt of the ſame.</p>
+            <p>§. 3. And therefore we cannot but ex<g ref="char:EOLhyphen"/>hort and encourage one another, and as many as with us do look for ſuch things, to walk in all Holy Converſation and God<g ref="char:EOLhyphen"/>lineſs, to keep the Works of the Son of GOD unto the end, and to hold faſt the Word of his Patience, until he come: Be<g ref="char:EOLhyphen"/>ing diligent that we may be found of him in Peace and in Love, without Spot, and blameleſs, as was the <hi>Primitive Church</hi> of PHILADELPHIA. Wherefore, being mindful of the Words which were ſpoken before by the Holy Prophets, and of the Commandment of the Lord and Saviour, bleſſed for ever: As often as we do meet together for this end, we do after this manner. And as at all Times, and in all Places, we account it our higheſt Duty thus to do, without any Partiality or Ac<g ref="char:EOLhyphen"/>ceptance of Perſons: So eſpecially, when we are aſſembled in the Spirit of the LORD, that our Loyns may not he at any time ungirt, or our Lamps extinct, and without Oil: For when the Bride<g ref="char:EOLhyphen"/>groom cometh, it will then be too late to go to buy it; and the <hi>little Door,</hi> which is already begun to be opened, will then be ſhut up.</p>
+            <p>
+               <hi>Fathers</hi> and <hi>Brethren,</hi>
+            </p>
+            <p>§. 4. Marvel not that this is a <hi>little Door,</hi> and that there is but a little viſible Strength as yet: Since God, even our God, hath <hi>choſen the ſmall things of this World to confound the great, and the fooliſh things to confound the wiſe;</hi> and that not once only, but always. As for our ſelves, we could have been very well contented, had it been the Will of our Father in Heaven, not to have appeared as we have done; but to have enjoyed rather in pri<g ref="char:EOLhyphen"/>vate (as ſome of You do) the Satisfaction of thoſe great and auguſt Truths, which we now confeſs before the whole World. It would have been far more eaſie for us, and would not have expoſed us to ſo ma<g ref="char:EOLhyphen"/>ny Evils; but our Wills, which are in themſelves moſt contrary, we have learn'd by his Spirit aſſiſting us, to ſubmit to his Holy and moſt Adorable Will.</p>
+            <p>§. 5. But notwithſtanding this our more publick appearance at preſent, we do not hereby intend to recede from what we have formerly declared in the <hi>Reaſons for the Foundation and Promotion</hi> of this <hi>Society;</hi> but do earneſtly deſire to keep ſtill, and maintain the Communion of Saints invio<g ref="char:EOLhyphen"/>lable, in the Band of the Holy Catholick Church.</p>
+            <p>§. 6. And for as much as it is found ne<g ref="char:EOLhyphen"/>ceſſary, in order to ſuch a near and inti<g ref="char:EOLhyphen"/>mate Communication with one another, as is required for the effectual Proſecuting the Great and Holy Deſign before us, the In<g ref="char:EOLhyphen"/>tereſt of <hi>Chriſtendom,</hi> and the Good of all <hi>Mankind,</hi> to initiate and admit Perſons in<g ref="char:EOLhyphen"/>to our Society; (for that otherwiſe we could not be ſaid to be a <hi>Society)</hi> we would
+<pb facs="tcp:175642:2" rendition="simple:additions"/>
+not herein, that ye ſhould miſunderſtand us, as if we were by this, ſetting up for a new Sect, and a divided Church; our ſolemn Proteſtations to the contrary, not<g ref="char:EOLhyphen"/>withſtanding. For we have acted in this matter, and ſhall continue to act, accord<g ref="char:EOLhyphen"/>ing <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe moſt Catholick Principles, which all the Churches of Chriſt, that ever were or are, may juſtifie us in: We think it not our proper Buſineſs to meddle with the Controverſies, that are at this day in <hi>Chriſtendom;</hi> but to pray and wait for that Holy Spirit, which alone can determine them, and lead into all divine Truth. The Principles of the Chriſtian Religion we believe to be plain and eaſie, familiar and obvious, to that degree, that he that runneth may read them, in the ſacred Wri<g ref="char:EOLhyphen"/>tings of the New Teſtament: But the My<g ref="char:EOLhyphen"/>ſteries of the ſame, we believe none can truly underſtand as they ought (nor even put in Practice thoroughly, the Principles themſelves) but ſuch as are <hi>Spiritual;</hi> that is, Initiated by the Spirit of JESUS, into the Knowledge of them, Experimentally, Eſſentially and Fundamentally. All wrang<g ref="char:EOLhyphen"/>ling therefore about theſe, from the Spirit only of Reaſon, or the <hi>natural</hi> Man, we cannot approve as a means for the Eſtabliſhing the Unity of Faith, in the deep and recondite things of God; but do think this method moſt incongruous and ineffectual, as it hath hitherto ſhewed it ſelf to be.</p>
+            <p>§. 7. All the Precepts and Inſtitutions of our Bleſſed Maſter, we, according to their very fulleſt and utmoſt Latitude, accept, and intirely ſubmit to. The <hi>Houſe</hi> of our Society we have founded upon his Sermon on the Mount: Whence, though the Rain hath indeed deſcended, and the Floods came, and the Winds have blown, and beat upon this our Houſe and Eſta<g ref="char:EOLhyphen"/>bliſhment, yet it falleth not: Neither can it fall, for that it is founded by the Eternal Wiſdom it ſelf upon a Rock; which Rock is Chriſt, in the Manifeſtation of his Spi<g ref="char:EOLunhyphen"/>rit and Power.</p>
+            <p>§. 8. Wherefore the Foundation there<g ref="char:EOLhyphen"/>of, which formerly hath been declared; being as the <hi>Hill of Zion,</hi> that cannot be moved, and the entrance thereof as the Door of DAVID, which is never to be ſhut in the Church of <hi>Philadelphia:</hi> We have boldneſs to Addreſs in this Manner unto you, Men and Brethren; yea, unto you Fathers and Elders, even as many as are Separated and Sanctified, in all the Churches throughout EUROPE (and whereſoever elſe this our Declaration may be carried) for an Holy Miniſtration and Calling. And we entreat you, by the Bowels of the Lord JESUS CHRIST, whom we all profeſs to honour, and to follow, as our Leader; that ye would lay aſide all Prejudices againſt one another; all un<g ref="char:EOLhyphen"/>certain Traditions of Men, all Diſpute<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about Words, and all Impoſitions of Un<g ref="char:EOLhyphen"/>intelligible Myſteries (though true in them<g ref="char:EOLhyphen"/>ſelves) and that ye would be pleaſed to make a Candid Allowance for the Power of Education in ſome, of Conſtitution in others; and of the different Apprehenſi<g ref="char:EOLhyphen"/>on of things (more or leſs) in all; and thence love one another as <hi>Brethren,</hi> and as CHRIST hath loved you, whereby ye may be able to demonſtrate your ſelves to be built (together with us) upon Him: He being the Chief Corner-Stone of this Houſe of <hi>BROTHERLY LOVE.</hi> Therefore ſtir up, we beg and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you, this moſt Excellent Gift; which is no leſs than the Band of Perfection in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Body of the Church, and the Firſt Bor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Love of God: So will a true <hi>Phi<g ref="char:EOLhyphen"/>ladelphian Society</hi> be ſpread over the whole Earth, and the Kingdoms of the Nations become the Kingdom of the Prince of Peace</p>
+            <p>
+               <pb facs="tcp:175642:3" rendition="simple:additions"/>
+§. 9. For the Diviſions of <hi>Chriſtendom,</hi> our Souls do mourn, and hence we cannot but cry out; <hi>Sirs, ye are Brethren, why do ye Wrong one to another?</hi> And again, we ſay unto you all, and every one, <hi>how good and pleaſant is it for Brethren to dwell together in Unity!</hi> Conſider then, we pray you, of the things that make for Catholick <hi>Peace,</hi> and for the Eſtabliſhment of the new <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> the City and Kingdom of Peace, that ſo all ſuch as have erred and are de<g ref="char:EOLhyphen"/>ceived, may be brought into the Way of Truth and Love, being made one Fold un<g ref="char:EOLhyphen"/>der one Shepherd, JESUS CHRIST, our Lord. Yea, we doubt not, Honoured and Beloved, that ye will conſider of theſe things: And many among you will blow the Trumpet of the Lord, and ſound an Alarm in the holy Congregation; to give Notice that the Lord cometh, and that his Kingdom is at Hand, to them that wait for it, and love his Appearance. And as the ſame Deſign may be carryed on after differerent Manners, and we have been called to this particular Manner; ſo we alſo hope and believe, that it ſhall be car<g ref="char:EOLhyphen"/>ryed on by you after various and ſundry Methods, ſuitable to your ſeveral Stations and Calls, and according to the manifold Miniſtration and Diſpenſation of the ſame Spirit.</p>
+            <p>§. 10. Now, Beloved in the Lord, ſay not, that <hi>the Time is not come,</hi> as ſome of you have declared. For the Time verily cometh, but the Hour thereof no Man knoweth. Therefore we watch, and would awaken others to watch with us, knowing that the Promiſe is not afar off. <hi>The Time indeed is not come,</hi> as ſome under<g ref="char:EOLhyphen"/>ſtand it, neither is at Hand. But if <hi>Noah</hi> aroſe up, and preached Repentance, an Hundred and Twenty Years before the Completion of what he expected; if <hi>Iſaiah</hi> preached in like manner, an Hundred and ſeventy Years, before it came to paſs, con<g ref="char:EOLhyphen"/>cerning the Call and Anointing of the great <hi>CYRUS;</hi> and if the Prophet of <hi>Bethel</hi> preached and propheſied above Three Hundred Years before, concerning the great Reformation under <hi>Joſias:</hi> It is not at all to be wondred at, if before ſo great and glorious a Reformation (or rather Transformation) of the Church, as is This, which is now expected, there be ſent forth ſome Fore-runners, Meſſengers, and Heralds, to give Warning of the ſame to the World. This we do: And we know, that <hi>our</hi> Time is now; and that our Calling ſhall not be in vain.</p>
+            <p>§. 11. Whoſoever then ſhall be offend<g ref="char:EOLhyphen"/>ed at us, or at our Proceedings, without due Examination of them; we ſhall not be mov'd on our Parts, only with a Con<g ref="char:EOLhyphen"/>cern for their Good.</p>
+            <p>We have the Anſwer of a good Con<g ref="char:EOLhyphen"/>ſcience before GOD, both in acting and ſuffering for his Names Sake; and if in any thing of leſſer Moment, there hath been a Miſtake committed, at any time, we ſhall be glad to rectifie the ſame, ſo ſoon as it ſhall be made known. If any better Expedients can be produced for the promoting of the Intereſt before ſpecified, let not any with-hold them. However, we dare not conſult with Fleſh and Blood, in this Matter: But all things that we <hi>can</hi> do, we are ready to do: For that we may make ſtrait the Way of our Lord, the KING<hi>:</hi> We go forth at this Time, in his Name, to make Proclamation to the World, having received a Foretaſt of the Powers of the approaching New State. We are indeed, but as <hi>a Voice in the Wilder<g ref="char:EOLhyphen"/>neſs;</hi> the Church of myſtical <hi>Iſrael,</hi> being not yet come out of the Wilderneſs: But
+<pb facs="tcp:175642:3"/>
+let not this be rejected; for by it, ſhall <hi>the Axe be laid to the Root of the Tree.</hi> And when this Voice ſhall ceaſe, then ſhall <hi>the Voice of the Bridegroom be heard: Bleſſed are they that hear the former Voice; for they ſhall not be afraid to hear the latter.</hi>
+            </p>
+            <p>
+               <hi>Men, Brethren, and Fathers,</hi>
+            </p>
+            <p>§. 12. In order to a freer Proſecution of the Deſigns of this Society, it hath pleaſed God to grant us the Protection of the Ci<g ref="char:EOLhyphen"/>vil Government: Againſt which, our Principles are no wiſe Prejudicial, but moſt advantagious to it, when they are underſtood. For it is certain, that the Bleſſings of the Heaven above, and of the Earth beneath, will be given by <hi>God</hi> to thoſe wiſe Princes and Magiſtrates, who ſhall promote the righteous and peaceable Kingdom of CHRIST, and pay <hi>him</hi> the Kiſs of Homage, which <hi>He</hi> requireth; that ſo they may be, <hi>as the Light of the Morning, when the Sun riſeth, even a Morning without Clouds: And as the tender Graſs out of the Earth, by the clear ſhining</hi> (of the Sun) <hi>after Rain.</hi> And we do believe, that the Time is at Hand, when the Mountains ſhall bring Peace, and the little Hills Righteouſ<g ref="char:EOLhyphen"/>neſs unto the People. And then will it be underſtood, what it is to <hi>Reign By the Grace of God.</hi>
+            </p>
+            <p>§. 13. But at this, Satan is extreamly enraged, ſeeing that his Kingdom draweth near to a Period. And therefore, by all manner of ſubtile Inſinuations, and even by Violence, where he is not chained up, he is working inceſſantly to put a Stop to the breaking forth of the Golden Age of Peace and Righteouſneſs which we Pro<g ref="char:EOLhyphen"/>claim. Hence many of our Brethren, in other Countries, have been, and are de<g ref="char:EOLhyphen"/>ſpitefully uſed, who are as ſhining Lamps in a crooked and ſtupid Generation, t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> turn many to the Wiſdom of the Juſt Perſons of the ſtricteſt Holineſs, and Great<g ref="char:EOLhyphen"/>eſt Modeſty, have not been exempted from being expoſed on one Hand, to a jealous and exaſperated Magiſtracy, and on the other Hand, to a furious and bigotted Vulgar. From hence are Impriſonments, Confiſcations and Exile, for the Cauſe of the Teſtimony of JESUS, and of his Reign in Spirit, as well in Proteſtant as in Roman Catholick Countries. From hence alſo we think, are all thoſe bitter Diſputes about the Limitation of our <hi>Love <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God</hi> (the Subſtance of all true Religion) which are carried on at this Day, with moſt ex<g ref="char:EOLhyphen"/>tream Violence, by Perſons of greateſt Eminence<hi>:</hi> And all the preſent Controver<g ref="char:EOLhyphen"/>ſies about the acceſſory Part of Chriſtianity, to the Excluſion or Neglect of an inward Principle of divine <hi>Life</hi> in the Soul, which is alſo a Principle of divine <hi>Light</hi> and <hi>Love.</hi>
+            </p>
+            <p>§. 14. And now, it having pleaſed God to put an Hook into the Noſe of this Levi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>than, in this Kingdom eſpecially, it is no Wonder he teareth and rageth the more, not being able to bear the Brightneſs of that high Spiritual Diſpenſation, which is beginning here to break out, and is decla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by weak Inſtruments elected for this purpoſe.</p>
+            <p>And therefore, ſince our firſt publick Appearance, he hath been ever buſie to in<g ref="char:EOLhyphen"/>ſpire ſome of his Agents, to raiſe Tumults againſt the Publiſhers of the approaching New Kingdom; and even to curſe and blaſpheme where we have been met toge<g ref="char:EOLhyphen"/>ther to bleſs <hi>God.</hi>
+            </p>
+            <p>But, beſides, theſe open, his Clandeſtine Deſigns are the more dangerous. A<g ref="char:EOLhyphen"/>gainſt both of which, we have been hi<g ref="char:EOLhyphen"/>therto preſerved by the Grace of Almighty God. And he is able, we know, to car<g ref="char:EOLhyphen"/>ry us through far greater Difficulties: As
+<pb n="6" facs="tcp:175642:4" rendition="simple:additions"/>
+he hath done our Fore-fathers. Whom we alſo believe to be no leſs willing, than able to aſſiſt us, and as many as are engaged in this Honourable Service.</p>
+            <p>§. 15. Whence, by the Evidence of Faith, we are aſſured, that he will not be wanting to give his extraordinary Atte<g ref="char:EOLhyphen"/>ſtations, as in the Days of old, ſo ſoon as the Fullneſs of Time ſhall be wholly come; and according as his Wiſdom ſhall ſee expe<g ref="char:EOLhyphen"/>dient to raiſe up likewiſe, and inſpire ſome great Prince, to carry on this Bleſſed Work. And in the mean while, we ſhall reſt in this, that our Leader is more than and Hundred <hi>Conſtantines:</hi> And that ſince <hi>He</hi> hath ſeen fit to employ us in a <hi>Prepara<g ref="char:EOLhyphen"/>tory</hi> Work, however ſecret and hidden, his Meaſures may be for the preſent, yet all ſhall be accompliſhed in the End, to the Surprize and Praiſe of the whole Farth<g ref="char:punc">▪</g>
+            </p>
+            <argument>
+               <p>This Declaration was firſt publiſhed in <hi>London,</hi> at a publick Meeting of our So<g ref="char:EOLhyphen"/>ciety, upon<hi>Eaſter-Sunday, </hi> which was held in <hi>Lori<g ref="char:EOLhyphen"/>mers Hall;</hi> and now print<g ref="char:EOLhyphen"/>ed by a general Order.</p>
+            </argument>
+         </div>
+         <div type="declaration">
+            <head>An Additional DECLARATION. <hi>In the Name of GOD,</hi> Amen.</head>
+            <p>IT has been the Method of the <hi>Philadel<g ref="char:EOLhyphen"/>phian</hi> Society in general, both here and in other Countries, to Enjoy and Com<g ref="char:EOLhyphen"/>municate what they have received in a more private manner; as two or three ſhould meet together in Unity: Notwith<g ref="char:EOLhyphen"/>ſtanding it hath pleaſed God of late to Im<g ref="char:EOLhyphen"/>pel and Conſtrain ſome of us, on account of the near approach of the Kingdom of Chriſt, to go forth and Proclaim it openly, which we have done now for almoſt theſe two Years: and lately in a more publick manner; whereby the Alarm has been ſuf<g ref="char:EOLhyphen"/>ficiently given and a free offer made by God of a Renew'd Diſpenſation of his Grace and Spirit: which has been general<g ref="char:EOLhyphen"/>ly deſpiſed and Rejected, and the Meſſen<g ref="char:EOLhyphen"/>gers thereof deſpightfully intreated. All ſtumbling at the Stumbling-Block, the weak and contemptible beginnings of the <hi>Philadelphian</hi> State; through the gradual opening of the Holy Powers at this day, and being accompanied with many weak<g ref="char:EOLhyphen"/>neſſes of the Inſtruments<hi>:</hi> Together with the great latitude of Charity and Liberty it has gone forth in; and the Contrariety of its manner to that of the preſent Forms and Eſtabliſhments of Human Wiſdom, Tradition and Cuſtom. We have done our part; and would willingly have per<g ref="char:EOLhyphen"/>ſiſted
+<pb facs="tcp:175642:4" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all we <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Teſtimony of the Lord <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d of his Kingdom. And now Provi<g ref="char:EOLhyphen"/>dence having outwardly caſt in a Preven<g ref="char:EOLhyphen"/>tion of our Meeting longer at the place where the foregoing Declaration was firſt Publiſh't, and given us pre-intimation of what we are further to do: Foraſmuch, as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all were to be Admoniſh'd and Warn'd of the approaching day; but all are not fit to receive the Myſteries of the Kingdom, and to concur in ſo Spiritual a Service: Therefore at preſent we are to be leſs Publick; yet not wholly Private; but more Retired from ſuch great Con<g ref="char:EOLhyphen"/>courſe of the promiſcuous Multitude: to whom it hath pleaſed God that the Pearls of the Kingdom ſhould be Offered, chief<g ref="char:EOLhyphen"/>ly for the ſake of ſome few among them that would know the Value of 'em; but not forc'd upon them when Rejected and Trampled on. And now we leave it to Him, to take what other Methods he ſees neceſſary to prepare his way, Endeavour<g ref="char:EOLhyphen"/>ing as much as poſſible, to gather only a Select Company, of ſuch as are in Unity with us, or have been excited to a Seri<g ref="char:EOLhyphen"/>ous enquiry into theſe Matters, and give them a more quiet Opportunity of ſerving God with us; and more advantagious for the freer opening and ſpreading of the Powers of the Holy Spirit among us: and ſhall ſtand ready to give all Satisfaction and Information we can concerning theſe Di<g ref="char:EOLhyphen"/>vine things to any that ſhall come and de<g ref="char:EOLhyphen"/>ſire it of us. And we doubt not but there will be experienced herein a Bleſſing of God more than ordinary both by us and all that ſhall come to us in good will, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> due Preparation to receive it: And that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Key of <hi>David</hi> ſhall ſucceſſively open, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> true <hi>Philadelphian</hi> Body will be made up. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And hence we do intreat all that are <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſtians indeed, and in the Bowels of our Lord Jeſus Chriſt, the firſt-born of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Brethren, we do earneſtly beſeech them not to take any offence at a Name; For tho we eſteem none ſo proper as that of Chriſtian to expreſs a Diſciple of the Bleſſed JESUS, and one <hi>Anointed</hi> with the Spirit; yet ſince beſides this Old Name, ſo many other Names have been introduced, through the great Decay of <hi>Chriſtian</hi> Charity, and even almoſt to the utter Deſtruction of it: This appears the moſt fit to revive the ſame, and to denote that Spirit of Univerſal Love toward all that are of the ſame Offspring, which is the true Characteriſtick of that Religion which is Holy and Undefiled. Whence we Hope and Believe, that to them that are found in this Spirit this Name will not be diſpleaſing, which as we bear, ſo they have a Right to bear; which is to U<g ref="char:EOLhyphen"/>nite, and not to Divide; and which is an Old Name, and yet a New Name, as that Commandment whereon it is grounded, is both an Old Commandment and a New Commandment; yea, which in ſome ſenſe may be ſaid (as to the Subſtance of it at leaſt) to be the <hi>New Name</hi> given by Chriſt to the Angel of the Church bearing the outward Name hereof; and even deſign'd and appropriated by the Holy Spirit to that bleſſed State of the Church, which is Typi<g ref="char:EOLhyphen"/>fied by this of <hi>Philadelphia,</hi> as a Name of pure Love, freed from the oppreſſions of its Suffering State, and inveſted with Pow<g ref="char:EOLhyphen"/>er and Dominion. Thus Anſwering to Chriſt its Head, who after his Reſurrection aſſumes a New Name agreeable to the change of his Condition, from a State of Suffering and Dying Love, to that of Love Triumphant in its Kingdom of Power and Glory. So that indeed it is not a Name Invented and newly taken up to ſerve a pre<g ref="char:EOLhyphen"/>ſent Deſign, as is generally ſuppoſed, but a Name which belongs to ſuch as ſtand in Relation to this future Glorious Church:
+<pb facs="tcp:175642:5" rendition="simple:additions"/>
+and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> waiting for it; and experiencing aleady in ſome Degree the Power of it: Which alſo has been Adapted to this State even by the Learned Writers themſelves in ſeveral A<g ref="char:EOLhyphen"/>ges.</p>
+            <p>Wherefore ſeeing it was never intended for a new Wall of Partition to ſeparate Chrſtian from Chriſtian; If theſe are for <hi>Paul,</hi> and others for <hi>Cephas,</hi> we will accord<g ref="char:EOLhyphen"/>ing to the Truth of <hi>This</hi> Name, love them both as our Brethren; and we can do no otherwiſe if we are for Chriſt. In whom <hi>Paul</hi> is one with <hi>Cephas,</hi> and <hi>Apollo</hi> one with both: Yea, in whom all are One, that are Chriſtians, not after the Letter, but after the Spirit; whoſe Baptiſm is inwardly of the Heart, and whoſe Faith worketh by Love; Which Covereth all things, Believ<g ref="char:EOLhyphen"/>eth all things, Hopeth all things, and En<g ref="char:EOLhyphen"/>dureth all things, working in them accord<g ref="char:EOLhyphen"/>ing to the effectual Operation of <hi>This</hi> Name which he has been pleas'd to ſhed abroad into their Souls, as a moſt precious Oint<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not can teſtifie: To the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who was anointed above his Fello<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the univerſal Spirit of Charity, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in <hi>this</hi> ſacred Name. By which, as <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they were Marked in the Forehead, it <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be known by all, Men, who are his Di<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ples. Now, being made Partakers here by rich Grace, in ſome Meaſure, we can not reſt till others of our Brethren, wi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are yet Strangers to it, do alſo come <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> participate of the ſame; together with th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Name of the City of our God, the City o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Peace, which is the Mother of all th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Faithful: And which we believe, will de<g ref="char:EOLunhyphen"/>ſcend out of Heaven from GOD, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> crown the Earth, in the laſt Days, wit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the unfadable Bleſſings of <hi>Love</hi> and <hi>Peace</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when all they that hear the Voice, whic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is now gone out, and keep the Word of h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Son</hi>'s Patience, will be made Pillars in hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Temple, and will ſhine as fixt Stars i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Firmament of the new He<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vens.</p>
+            <closer>
+               <dateline>
+                  <hi>Given</hi> 
+                  <date> the <hi>14th of</hi> May, <hi>being the Day of the Opening of the Meeting of this Society in a more retired place.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THeoſophical Tranſactions, <hi>by the</hi> Philadelphian Society, <hi>conſiſting of Memoirs, Conf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rences, Letters, Diſſertations, Inquiries,</hi> &amp;c. <hi>For the Advancement of</hi> Piety <hi>and Div<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </hi> Philoſophy. <hi>Numb.</hi> I. II. III. IV. V. <hi>Price</hi> 4 s. 6 d.</p>
+            <p>The State of the Philadelphian Society, <hi>or the Grounds of their Proceeding conſid<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> price</hi> 6 <hi>d.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
